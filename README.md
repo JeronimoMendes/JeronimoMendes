@@ -1,6 +1,6 @@
 ### Heyo! 👋
 
-I'm a computer science and engineering student @[Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
+I'm a computer science and engineering student [@Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/).
 
 ---
 
